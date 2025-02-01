@@ -1,5 +1,12 @@
+
+
 ### Kodebuddy Web Developer
 <img src="kode.png" alt="">
+
+
+### Generative AI
+<img src="c.png" alt="">
+
 
 ### Infosys AI Developer
 <img src="i.png" alt="">
@@ -20,8 +27,7 @@
 <img src="aws.png" alt="">
 
 
-### Generative AI
-<img src="c.png" alt="">
+
 
 
 ### Altair Data Science Internship
