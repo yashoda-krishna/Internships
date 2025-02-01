@@ -1,7 +1,7 @@
 
 
 ### Kodebuddy Web Developer
-<img src="kode.png" alt="">
+<img src="kode.jpg" alt="">
 
 
 ### Generative AI
